@@ -1,0 +1,39 @@
+{
+    "cakes": [
+      {
+        "id": 1,
+        "name": "Chocolate Cake",
+        "description": "Rich, moist chocolate cake topped with creamy chocolate frosting.",
+        "price": 25.99,
+        "image": "https://sallysbakingaddiction.com/wp-content/uploads/2013/04/triple-chocolate-cake-4.jpg",
+        "ratings": [4.5, 4.8, 4.6, 4.4, 4.5]
+      },
+      {
+        "id": 2,
+        "name": "Vanilla Cake",
+        "description": "Fluffy vanilla cake with vanilla buttercream frosting.",
+        "price": 22.99,
+        "image": "https://www.recipetineats.com/wp-content/uploads/2020/08/My-best-Vanilla-Cake_9.jpg?resize=650,910",
+        "ratings": [4.2, 4.0, 4.3, 4.5, 4.1]
+      },
+      {
+        "id": 3,
+        "name": "Red Velvet Cake",
+        "description": "Moist, tender red velvet cake with tangy cream cheese frosting.",
+        "price": 28.99,
+        "image": "https://i0.wp.com/www.livewellbakeoften.com/wp-content/uploads/2022/11/Red-Velvet-Cake-9.jpg?resize=1024%2C1536&ssl=1",
+        "ratings": [4.6, 4.7, 4.9, 4.8, 4.6]
+      },
+      {
+        "id": 1,
+        "name": "Red Velvet cake",
+        "price": 20,
+        "image": "https://images.unsplash.com/photo-1586788680434-30d324b2d46f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVkJTIwdmVsdmV0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "in_stock": true,
+        "description": "Red velvet cake has endured as one of the most popular cakes in the United States.Cake's name is a descriptor of its soft, velvety texture.",
+        "star_rating": 4,
+        "category_id": 1
+    }
+    ]
+  }
+  
